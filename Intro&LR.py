@@ -55,3 +55,5 @@ def myfuc(x):
 speed = myfuc(8)
 print(r) # r = 1 b/c there is an obvious relationship here
 print(speed) # predicts 16
+
+print("Hello world")
